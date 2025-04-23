@@ -1,0 +1,4 @@
+question,response,correctness,tone,helpfulness,average_score
+What is AI?,AI stands for Artificial Intelligence. It enables machines to think like humans.,5,4,5,4.666666666666667
+What is Python?,Python is a programming language known for its simplicity.,5,3,3,3.6666666666666665
+Who is the president of India?,The current president of India is Droupadi Murmu.,0,2,0,0.6666666666666666
